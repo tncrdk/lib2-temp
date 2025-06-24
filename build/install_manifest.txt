@@ -1,6 +1,0 @@
-/home/thorb/Code/Sandkasse/lib2/build/../install/lib/liblib_b.so
-/home/thorb/Code/Sandkasse/lib2/build/../install/include/lib_b.h
-/home/thorb/Code/Sandkasse/lib2/build/../install/include/lib_b2.h
-/home/thorb/Code/Sandkasse/lib2/build/../install/lib/cmake/lib_b/lib_bConfig.cmake
-/home/thorb/Code/Sandkasse/lib2/build/../install/lib/cmake/lib_b/lib_bConfig-noconfig.cmake
-/home/thorb/Code/Sandkasse/lib2/build/../install/lib/cmake/lib_b/lib_bConfig.cmake
